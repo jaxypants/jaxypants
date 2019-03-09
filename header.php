@@ -21,7 +21,6 @@
 		  <?php wp_head(); ?>
 	  </head>
 	  <body <?php body_class(); ?>>
-		<div>
 			<div class="container-fluid" style="margin-bottom:20px;">
 			  	<header id="jaxypants-header" class="blog-header py-3">
 			    	<div id="#jaxypants-header-row" class="row flex-nowrap justify-content-between align-items-center">
