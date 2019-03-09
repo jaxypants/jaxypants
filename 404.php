@@ -57,4 +57,5 @@ get_header();
 	</div><!-- #primary -->
 
 <?php
+//testing
 get_footer();
